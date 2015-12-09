@@ -1,0 +1,12 @@
+{
+  "name": "magic6",
+  "description": "typecript",
+  "main": "index.js",
+  "authors": [
+    "Miya"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~3.10.1"
+  }
+}
